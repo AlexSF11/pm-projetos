@@ -1,0 +1,63 @@
+body {
+    background-color: #9b9b9b;
+    text-align: center;
+}
+
+div {
+    width: 1280px;
+    margin: 20px 0px 90px 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+    border-radius: 3px;
+    background-color: #fff;
+}
+
+h2 {
+    text-align: left;
+    padding: 20px 0 0 40px;
+    opacity: 0.87;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+table {
+    opacity: 0.87;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+
+
+}
+
+.checkbox {
+    padding: 50px 20px 40px 40px;
+}
+
+th, td {
+    padding: 50px 90px 40px 0px;
+}
+
+.registros {
+    margin: 0  0 20px 700px;
+    opacity: 0.54;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: right;
+}
+
+img {
+   margin: 0px 20px 0px 6px;
+}
+
+.pages {
+    opacity: 0.54;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: right;
+}
