@@ -1,0 +1,23 @@
+body {
+    background-color: #00ffd8;
+    font-family: 'Arial';
+    text-align: center;
+}
+
+h1 {
+    margin-top: 100px;
+}
+
+h1 a {
+    text-decoration: none;
+    color: #4a4a4a;
+    border: 1px solid #4a4a4a;
+    border-radius: 3px;
+    margin: 0; padding: 0;
+    padding: 10px;
+}
+
+h1 a:hover {
+    color: #fff;
+    background-color: #4a4a4a;
+}
