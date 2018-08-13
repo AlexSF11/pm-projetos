@@ -150,7 +150,7 @@ section#depoimento p {
 
 
 section#convite {
-    background-image: url(/images/fundo-convite.png);
+    background-image: url(../images/fundo-convite.png);
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 150px;
@@ -178,7 +178,7 @@ section#convite input {
 }
 
 section#convite button {
-    background-image: url(/images/botao-convite.png);
+    background-image: url(../images/botao-convite.png);
     background-repeat: no-repeat;
     background-color: transparent;
     border: none;
@@ -238,8 +238,9 @@ footer .container {
     }
     
     section#convite form {
-        display: block;
         text-align: center;
         width: 80%;
+        display: block;
     }
+    
 }
